@@ -33,7 +33,7 @@ run_config = RunConfig(
 @function_tool("get_weather")
 def get_weather(location: str) -> str:
     """Fetch the weather for a given location."""
-    return f"The weather in {location} is 22 degrees C"
+    return f"The weather in {location} is 28 degrees °C"
 
 
 # Step 3: Agent
