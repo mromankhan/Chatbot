@@ -1,0 +1,20 @@
+[project]
+name = "first-chatbot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Muhammad Roman", email = "mromankhan005@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "chainlit>=2.5.5",
+    "openai-agents>=0.0.12",
+]
+
+[project.scripts]
+first-chatbot = "first_chatbot:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
