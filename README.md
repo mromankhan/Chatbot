@@ -1,6 +1,6 @@
 # 🤖 Agentic AI Chatbot with Chainlit & OpenAI SDK
 
-This project is an LLM-powered Simple agentic AI Agent built using **Chainlit**, **OpenAI SDK**, and **Python**. The chatbot can handle natural language queries and autonomously invoke tools (like weather info retrieval) via function calling.
+This project is an LLM-powered Simple agentic AI Chatbot built using **Chainlit**, **OpenAI SDK**, and **Python**. The chatbot can handle natural language queries and autonomously invoke tools (like weather info retrieval) via function calling.
 
 ## 🚀 Features
 
